@@ -125,4 +125,20 @@ hr{
 footer {
     background-color: var(--primary-color);
     padding: 2rem 0rem;
+    text-align: center;
+    color: white;
+    border-top-left-radius: 1rem;
+}
+
+.footer .link {
+    color: white;
+}
+
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
 }
