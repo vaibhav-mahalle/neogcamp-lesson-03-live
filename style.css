@@ -3,7 +3,8 @@
 :root {
     --primary-color: #349449;
     --dark-gray:  #6B7280;
-    --off-white: #F3F4F6;
+    --off-white: 
+    #EFF6FF;
 }
 
 body{
