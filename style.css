@@ -17,6 +17,10 @@ hr{
     margin: 2rem 0rem;
 }
 
+.proper-color{
+    color: var(--dark-gray);
+}
+
 /* container */
 .container 
 {
@@ -33,11 +37,14 @@ hr{
 .link {
     text-decoration: none;
     padding: 0.5rem 1rem;
+    margin-bottom: 0rem;
 }
 .primary-link {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color:white;
+    margin-right: 0.5rem;
+   
 }
 
 .secondary-link{
@@ -104,6 +111,10 @@ hr{
     text-align: center;
     padding-top: 1rem;
     color: var(--dark-gray);
+}
+
+.hero .heading-inverted{
+        color: var(--primary-color);
 }
 
 /* section */
