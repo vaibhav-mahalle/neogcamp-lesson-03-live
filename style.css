@@ -139,6 +139,7 @@ hr{
 .section {
     padding: 2rem;
     margin-right: 2rem;
+    
 }
 
 .section h1 {
@@ -148,6 +149,7 @@ hr{
 
 .ow {
     background-color: var(--off-white);
+    border-radius: 2rem;
 }
 
 /* footer */
