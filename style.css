@@ -18,6 +18,7 @@ html { font-size:100%; }
 body{
     font-family: 'Montserrat', 
     sans-serif;
+    margin: 0;
     
 }
 
@@ -52,6 +53,11 @@ hr{
     border-radius: 0.5rem;
     color:white;
     margin-right: 0.5rem;
+    display: block;
+    width: fit-content;
+    margin-bottom: 0.5rem ;
+    
+    
    
 }
 
@@ -59,6 +65,8 @@ hr{
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
+    display: block;
+    width: fit-content;
 
 }
 
@@ -99,7 +107,7 @@ hr{
 
 .navigation .link-active {
     font-weight: bold;
-    padding-top: 5rem ;
+    
 }
 
 /* header */
@@ -130,6 +138,7 @@ hr{
 /* section */
 .section {
     padding: 2rem;
+    margin-right: 2rem;
 }
 
 .section h1 {
